@@ -7704,6 +7704,10 @@ a.text-dark:hover, a.text-dark:focus {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_2@2x.jpg); }
   .news-card.news-card-3::before {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_3@2x.jpg); }
+ .news-card.news-card-4::before {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_4@2x.jpg); }
+  .news-card.news-card-5::before {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../images/News_5@2x.jpg); }
   .news-card .card-body {
     position: relative;
     z-index: 3; }
